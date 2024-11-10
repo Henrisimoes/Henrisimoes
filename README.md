@@ -1,4 +1,4 @@
-## Olá, sou Henrique Simões👋
+## Olá, sou Henrique Simões 💻
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_henrisimoes/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/henrisimoes)
 
@@ -14,4 +14,4 @@
   <img align="center" alt="php" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" />
 </div><br/>
 
-💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+🖥️ Analista de Sistemas com habilidades em HTML, CSS, JavaScript, Python, SQL e PHP. Busco desenvolver soluções eficientes e automatizar processos para otimizar a experiência do usuário e o desempenho dos sistemas.
