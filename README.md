@@ -15,3 +15,6 @@
 </div><br/>
 
 🖥️ Analista de Sistemas com habilidades em HTML, CSS, JavaScript, Python, SQL e PHP. Busco desenvolver soluções eficientes e automatizar processos para otimizar a experiência do usuário e o desempenho dos sistemas.
+
+![GitHub Snake Animation](https://github.com/Henrisimoes/Henrisimoes/blob/main/dist/github-contribution-grid-snake.svg)
+
