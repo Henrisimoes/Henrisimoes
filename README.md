@@ -1,21 +1,34 @@
-## Olá, sou Henrique Simões 💻
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_henrisimoes/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/henrisimoes)
+# 👋 Olá! Sou Henrique Simões
 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_henrisimoes/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrisimoes)
 
-## Tecnologias que eu uso no meu dia
+---
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="py" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img align="center" alt="sql" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" />
-  <img align="center" alt="php" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" />
-</div><br/>
+### 💻 Sobre mim  
+Sou **Analista de Sistemas** com experiência em desenvolvimento web e automação de processos.  
+Busco constantemente aprimorar meus conhecimentos e criar soluções que **melhorem a experiência do usuário** e **otimizem o desempenho dos sistemas**.
 
-🖥️ Analista de Sistemas com habilidades em HTML, CSS, JavaScript, Python, SQL e PHP. Busco desenvolver soluções eficientes e automatizar processos para otimizar a experiência do usuário e o desempenho dos sistemas.
+---
 
+### 🧠 Tecnologias que utilizo no dia a dia
+<div align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</div>
 
+---
 
+### 🚀 Atualmente focado em
+- Aprofundar conhecimentos em **Python e SQL**
+- Aprimorar **boas práticas de desenvolvimento**
+- Criar projetos para **portfólio pessoal**
 
+---
+
+### ✉️ Contato
+📧 [E-mail profissional](pedro.tchello@gmail.com)
