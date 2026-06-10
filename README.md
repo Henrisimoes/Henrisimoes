@@ -36,4 +36,4 @@ Busco constantemente aprimorar meus conhecimentos e criar soluções que **melho
 ---
 
 ### ✉️ Contato
-📧 [E-mail profissional](pedro.tchello@gmail.com)
+📧 E-mail profissional: pedro.tchello@gmail.com
