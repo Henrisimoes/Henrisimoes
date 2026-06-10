@@ -6,7 +6,7 @@
 ---
 
 ### 💻 Sobre mim  
-Sou **Analista de Sistemas** com experiência em desenvolvimento web e automação de processos.  
+**Analista de Sistemas** com experiência em desenvolvimento web e automação de processos.  
 Busco constantemente aprimorar meus conhecimentos e criar soluções que **melhorem a experiência do usuário** e **otimizem o desempenho dos sistemas**.
 
 ---
@@ -25,10 +25,13 @@ Busco constantemente aprimorar meus conhecimentos e criar soluções que **melho
 
 ---
 
-### 🚀 Atualmente focado em
-- Aprofundar conhecimentos em **Python e SQL**
-- Aprimorar **boas práticas de desenvolvimento**
-- Criar projetos para **portfólio pessoal**
+### 🚀 Atualmente Explorando
+
+* Full Stack com React, Node.js e TypeScript
+* Automação e Inteligência Artificial
+* Arquitetura e Boas Práticas de Software
+* PostgreSQL, MySQL e Modelagem de Dados
+
 
 ---
 
